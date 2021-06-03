@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proposals for the Scotia Illustrata: or, Prodromus historiae naturalis Scotiae in two volumes in Latin.  Folio.</title>
+            <author>Sibbald, Robert, Sir, 1641-1722.</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43984</idno><idno type="EEBO-CITATION">690986727</idno>
+  <idno type="VID">211697</idno>
+  <idno type="EEBO-PROQUEST">2240884656</idno>
+  
+            <idno type="OCLC"> 690986727</idno>
+            <idno type="OCLC">ocn 690986727</idno>
+            <idno type="STC">Wing S3726</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43984)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 211697)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2984:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proposals for the Scotia Illustrata: or, Prodromus historiae naturalis Scotiae in two volumes in Latin.  Folio.</title>
+                  <author>Sibbald, Robert, Sir, 1641-1722.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1684]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Sibbald, Robert, --  Sir, 1641-1722. --  Scotia Illustrata.</term>
+               <term type="topical_term">Publishers and publishing --  Scotland --  Edinburgh --  Early works to 1800.</term>
+               <term type="topical_term">Advertising fliers --  Scotland --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="publication_proposal">
+            <pb facs="tcp:211697:1"/>
+            <pb facs="tcp:211697:2"/>
+            <pb facs="tcp:211697:2"/>
+            <head>PROPOSALS FOR THE <hi>Scotia Illustrata;</hi> Or, <hi>Prodromus Hi<g ref="char:EOLhyphen"/>storiae Naturalis Scotiae,</hi>
+            </head>
+            <p>In Two Volumes in Latin. Folio.</p>
+            <p>And for these Essays concerning the <hi>Roman</hi> Antiquities in the North Part of <hi>Britain, Viz.</hi>
+               <table>
+                  <row>
+                     <cell>An Essay concerning the <hi>Roman</hi> Walls and Forts.</cell>
+                     <cell>
+                        <hi>Series rerum à Romanis in Boreali hâc Bri<g ref="char:EOLhyphen"/>tanniae parte Gestarum per Nummos Romanos &amp; Lapides Scriptos illustrata.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Introductio ad Historiam Rerum à Ro<g ref="char:EOLhyphen"/>manis, in parte Britanniae ultra Mu<g ref="char:EOLhyphen"/>rum Picticum Gestarum.</hi>
+                     </cell>
+                     <cell>An Essay to prove, that the ancient <hi>Go<g ref="char:EOLhyphen"/>thic</hi> Tongue was the <hi>Pictish</hi> Language.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>OF a Thousand Copies of the First Volume which was Printed, there being near Two Hundred unsold in the Author's hands, he hath now made ready for the Press the Second Volume, and designeth to Print only a few Copies of it.</p>
+            <p>IN the Second Volume all the Copper-Cutts are to be placed, which are now done for an Hundred particular Subjects relating to the Work, and are contained in Fourty Tables: Some of the former Tables were cut a new, and many New Ones are added to them.</p>
+            <p>THIS Second Volume consisteth of Fourty Sheets in Print, beside the Tables: In the First Book of it, there are the Observations the Author hath made upon the Aquatic Animals, which haunt the Firth of <hi>Forth,</hi> and these amount to upwards of an Hundred and Fifty of several sorts, and their Names and Uses are Narrated; and such as are not mentioned by the Writers are described, and the Figures of the rarest of them are done in Copper-Plates. There is likewise in the First Book an Account of the Sea Fowls which frequent the Isles and Rocks of the Firth of <hi>Forth,</hi> and there are Descriptions and Figures of some of the rarest of them. There is also an Account of the Plants which grow in the Isles and Rocks, and are found upon the Coast of the said Firth. And withall, there is an Account of the Minerals, Metals &amp; Marine Substances cast up in the Firth, or found upon the Coast thereof, and an Account of the odd Currents and Leakies, as they are called, in the Upper Part of the said Firth.</p>
+            <p>THE Second Book containeth the other Supplements of the first Volume in it, there is an Account of the most useful and rare Plants discovered since the Printing of the First Volume; as also, of the Animals Terrestrial and Aquatic discovered in other Parts of the Countrey, and a more particular Account of the Minerals and Metals found in the Countrey, especially of the Figured Stones and Petrifications since the Printing of the First Volume, and the Er<g ref="char:EOLhyphen"/>rors of the First Volume are Corrected, and the Objections of some Learn'd Men are Answer<g ref="char:EOLhyphen"/>ed, and considerable Additions are made to the other Treatises of the First Volume.</p>
+            <p>THIS Second Volume is to be done with the same Letter, and upon the same Paper this Proposal is done on.</p>
+            <p>THE First and Second of these Essays are Printed already in the same Letter, these Pro<g ref="char:EOLhyphen"/>posals are done on; and shall be delivered in Sheets without the Cuts to the Subscribers for both the Volumes, upon Payment of the first Moyety, being 20 Shillings <hi>Sterl.</hi>
+            </p>
+            <p>AND the Second Volume with the Cuts both of the <hi>Prodromus</hi> and all the Essays, shall be de<g ref="char:EOLhyphen"/>livered to the Subscribers for both Volumes upon the payment of the other Moyety, being 20 Shillings <hi>Sterl.</hi> in <hi>November</hi> next.</p>
+            <p>AND these who Subscribe only for the Second Volume of the <hi>Prodromus</hi> and the Four Essays at the Rate of Thirty Shillings <hi>Sterl.</hi> shall upon the Payment of Ten Shillings have the First Two Essays already Printed, without the Cuts, delivered to them presently, and the Second Volume with the other Two Essays, and all the Cuts, for the Payment of 20 Shillings <hi>Sterl.</hi> more, in <hi>November</hi> next.</p>
+            <p>So soon as there are Subscriptions and Money advanced for an Hundred Copies of both the Volumes, in South<hi>-Britain,</hi> the Printer <hi>James Watson</hi> will begin to Print the Second Volume of the <hi>Prodromus.</hi>
+            </p>
+            <p>THERE will be Obligatory Receipts for delivery of the Books, with the Cuts, in Sheets, got at the Author's Lodgings, and at Mr. <hi>David Freebairn</hi> and Mr. <hi>Robert Freebairn</hi> their Shops at <hi>Edinburgh.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
